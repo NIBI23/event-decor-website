@@ -10,13 +10,13 @@ function Contact() {
         <button className="btn-primary">Send Message</button>
 
      <div className="contact-details">
-      <p><strong>📞 Mobile:</strong> +91 98765 43210</p>
-      <p><strong>📧 Email:</strong> adeventplanner@email.com</p>
-      <p><strong>📍 Address:</strong> 123 Celebration Street, Hyderabad, India</p>
+      <p><strong>📞 Mobile:</strong> +91 9952929257</p>
+      <p><strong>📧 Email:</strong> adeventplanners.co@email.com</p>
+      <p><strong>📍 Address:</strong> No:16 PillayarKovil Street, Vanagaram,Chennai, TamilNadu, India</p>
     </div>
 
         <a
-          href="https://instagram.com/yourusername"
+          href="https://www.instagram.com/ad_eventplanner_official/"
           target="_blank"
           rel="noopener noreferrer"
           className="instagram-link"
