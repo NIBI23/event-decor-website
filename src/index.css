@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #F4F3EE; /* isabelline */
+  color: #1B1B1B;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 60px;
+  background-color: #1F2421; /* black olive */
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.logo {
+  height: 50px;
+  margin-right: 15px;
+}
+
+.brand-name {
+  font-size: 18px;
+  letter-spacing: 2px;
+  color: #E8E6E3; /* light gray */
+}
+
+.nav-links span,
+.nav-links a {
+  margin-left: 30px;
+  cursor: pointer;
+  color: #CCC5B9; /* quick silver */
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.nav-links span:hover,
+.nav-links a:hover {
+  color: #5D737E; /* aurometalsaurus */
+}
+
+.section {
+  padding: 80px 100px;
+}
+
+.section-title {
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.gallery-tabs button {
+  margin-right: 20px;
+  padding: 10px 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #5D737E;
+  font-weight: bold;
+}
+
+.active-tab {
+  border-bottom: 2px solid #1F2421;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.gallery-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.gallery-img:hover {
+  transform: scale(1.05);
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.85);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-img {
+  max-width: 80%;
+  max-height: 80%;
+}
