@@ -5,8 +5,11 @@ function Gallery() {
 
   const images = {
     birthday: [
-      "/images/birthday/1.jpg",
-      "/images/birthday/2.jpg"
+      "/images/birthday/b1.jpg",
+      "/images/birthday/b2.jpg",
+      "/images/birthday/b3.jpg",
+      "/images/birthday/b4.jpg",
+      "/images/birthday/b5.jpg"	    
     ],
     marriage: [
       "/images/marriage/1.jpg",
