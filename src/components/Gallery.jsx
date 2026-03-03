@@ -16,7 +16,12 @@ function Gallery() {
       "/images/marriage/2.jpg"
     ],
     reception: [
-      "/images/reception/1.jpg"
+      "/images/reception/r1.jpg"
+      "/images/reception/r2.jpg"
+      "/images/reception/r3.jpg"
+      "/images/reception/r4.jpg"
+      "/images/reception/r5.jpg"
+      "/images/reception/r6.jpg"
     ],
     dj: [
       "/images/dj/1.jpg"
