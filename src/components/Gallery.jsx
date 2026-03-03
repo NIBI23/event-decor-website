@@ -24,7 +24,11 @@ function Gallery() {
       "/images/reception/r6.jpg"
     ],
     dj: [
-      "/images/dj/1.jpg"
+      "/images/dj/d1.jpg"
+      "/images/dj/d2.jpg"
+      "/images/dj/d3.jpg"
+      "/images/dj/d4.jpg"
+      "/images/dj/d5.jpg"
     ]
   };
 
