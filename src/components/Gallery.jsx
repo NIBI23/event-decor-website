@@ -12,8 +12,8 @@ function Gallery() {
       "/images/birthday/b5.jpg"	    
     ],
     marriage: [
-      "/images/marriage/1.jpg",
-      "/images/marriage/2.jpg"
+      "/images/marriage/m1.jpg",
+      "/images/marriage/m2.jpg"
     ],
     reception: [
       "/images/reception/r1.jpg"
