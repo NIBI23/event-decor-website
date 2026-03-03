@@ -29,6 +29,7 @@ function Gallery() {
       "/images/dj/d3.jpg"
       "/images/dj/d4.jpg"
       "/images/dj/d5.jpg"
+      "/images/dj/d6.jpg"
     ]
   };
 
