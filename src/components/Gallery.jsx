@@ -9,27 +9,30 @@ function Gallery() {
       "/images/birthday/b2.jpg",
       "/images/birthday/b3.jpg",
       "/images/birthday/b4.jpg",
-      "/images/birthday/b5.jpg"	    
+      "/images/birthday/b5.jpg",
+      "/images/birthday/b6.jpg",
+      "/images/birthday/b7.jpg",
+      "/images/birthday/b8.jpg",
     ],
     marriage: [
       "/images/marriage/m1.jpg",
-      "/images/marriage/m2.jpg"
+      "/images/marriage/m2.jpg",
     ],
     reception: [
-      "/images/reception/r1.jpg"
-      "/images/reception/r2.jpg"
-      "/images/reception/r3.jpg"
-      "/images/reception/r4.jpg"
-      "/images/reception/r5.jpg"
-      "/images/reception/r6.jpg"
+      "/images/reception/r1.jpg",
+      "/images/reception/r2.jpg",
+      "/images/reception/r3.jpg",
+      "/images/reception/r4.jpg",
+      "/images/reception/r5.jpg",
+      "/images/reception/r6.jpg",
     ],
     dj: [
-      "/images/dj/d1.jpg"
-      "/images/dj/d2.jpg"
-      "/images/dj/d3.jpg"
-      "/images/dj/d4.jpg"
-      "/images/dj/d5.jpg"
-      "/images/dj/d6.jpg"
+      "/images/dj/d1.jpg",
+      "/images/dj/d2.jpg",
+      "/images/dj/d3.jpg",
+      "/images/dj/d4.jpg",
+      "/images/dj/d5.jpg",
+      "/images/dj/d6.jpg",
     ]
   };
 
