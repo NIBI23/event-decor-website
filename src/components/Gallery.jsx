@@ -17,6 +17,9 @@ function Gallery() {
     marriage: [
       "/images/marriage/m1.jpg",
       "/images/marriage/m2.jpg",
+      "/images/marriage/m3.jpg",
+      "/images/marriage/m4.jpg",
+      "/images/marriage/m5.jpg",
     ],
     reception: [
       "/images/reception/r1.jpg",
